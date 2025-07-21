@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+faiss-cpu
+openai
+llama-cpp-python
+coqui-tts
+faster-whisper
+loguru
+twilio
+httpx
+python-multipart
